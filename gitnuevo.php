@@ -7,8 +7,9 @@
 	<title>Document</title>
 </head>
 <body>
-
+<div  row >
 <div class="col-md-12">
+</div>
 	
 	<p>se agrega una parrafo</p>
 
